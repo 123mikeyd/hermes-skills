@@ -1,0 +1,12 @@
+; SPDX-License-Identifier: MIT
+; Copyright (c) 2026 Mike (123mikeyd) and Hermes Agent
+config_version=5
+
+[application]
+config/name="Illustrative State Tests"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+
+[debug]
+file_logging/enable_file_logging=false
